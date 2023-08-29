@@ -1,0 +1,23 @@
+*{
+    color: white;
+}
+@import url('https://fonts.googleapis.com/css2?family=Preahvihear&display=swap');
+body
+{
+    font-family: 'Preahvihear', cursive;
+     background-color: black;
+}
+u{
+    color: gold;
+}
+.b-1, .u-1,.b-2{
+    color: red;
+}
+img{
+    height: 250px;
+    width: 250px;
+}
+.p-1
+{
+    color: rgb(160, 159, 159);
+}
